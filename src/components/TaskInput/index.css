@@ -1,0 +1,32 @@
+.createTaskHeading{
+    color: red;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 36px;
+    margin: 0px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+span{
+    color: rebeccapurple;
+}
+.inputContainer{
+    display: flex;
+    flex-direction: row;
+    margin-top: 0px;
+}
+.inputElement{
+    padding: 5px;
+    font-size: 20px;
+    width: 60%;
+    font-weight: 400;
+}
+.saveButton{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 5px;
+    margin-left: 20px;
+}
